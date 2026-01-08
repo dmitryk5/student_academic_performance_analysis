@@ -92,7 +92,7 @@ A presentation was created to communicate findings clearly to non-technical stak
 * Key issues and actionable next steps
 
 🔗 **Project Presentation (Canva)**
-👉 [View the Presentation]((https://www.canva.com/design/DAG91q7o8Uk/9TaYTHGH1KBd2EhCTcvvnw/edit?utm_content=DAG91q7o8Uk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+👉 [View the Presentation](https://www.canva.com/design/DAG91q7o8Uk/9TaYTHGH1KBd2EhCTcvvnw/edit?utm_content=DAG91q7o8Uk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
