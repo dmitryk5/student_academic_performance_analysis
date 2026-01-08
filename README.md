@@ -1,6 +1,6 @@
 # Student Academic Performance Analysis (Excel Dashboard)
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## 📌 Project Overview
 
